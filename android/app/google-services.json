@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "940012502374",
+    "project_id": "parastechnologies-afe4a",
+    "storage_bucket": "parastechnologies-afe4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940012502374:android:9bf0611e35c71e4c1a1ca7",
+        "android_client_info": {
+          "package_name": "com.example.paras_technologies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940012502374-9liktjgg9cre9jals2v2sgg8cigc44pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paras_technologies",
+            "certificate_hash": "d3e543f4f1f9d965e181ae3af8bdf7b3663b1024"
+          }
+        },
+        {
+          "client_id": "940012502374-dn4uim2e8cr679uc0nufqf2id6amh8pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPYdxH9e_hZ3ae8rL_RBSOXBJKdgTo7BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940012502374-dn4uim2e8cr679uc0nufqf2id6amh8pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
